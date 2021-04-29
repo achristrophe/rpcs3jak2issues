@@ -1,0 +1,248 @@
+- RPCS3 v0.0.15-12167-64a109d2 Alpha | HEAD
+- Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz | 8 Threads | 15.92 GiB RAM | TSC: 3.600GHz | AVX+ | FMA3 | TSX-FA
+- Operating system: Windows, Major: 10, Minor: 0, Build: 19042, Service Pack: none, Compatibility mode: 0
+- RSX: Found vulkan-compatible GPU: 'AMD Radeon RX 5700 XT' running on driver 2.0.179
+- SYS: Firmware version: 4.87
+S UPDATER: RPCS3 is up to date!
+- RSX: Found vulkan-compatible GPU: 'AMD Radeon RX 5700 XT' running on driver 2.0.179
+S Input: XInput device 0 connected
+S GUI: Boot successful.
+S PPU: LLVM: Loaded module v4-kusa-h9Gk7zWXdfpVkNtxXTnzt1-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-6VPJ716P7fVdiWQjb4aSeY-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-FfehhCdnStVXzLY4b9GPm5-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-ER3MSrouvXGbxa50VXgEi6-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-3hZSMzPag9spQEvCjXUsfM-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-cwcjSqk62hUFN9XiGXghpL-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-JzeWEng62G75JsXVYp00mG-00000G-skylake.obj
+S SPU: SPU Runtime: Built the interpreter.
+S SPU: SPU Runtime: Built 1045 functions.
+U sys_prx TODO: _sys_prx_register_module(name=“cellProcessElf”, opt=*0xd0010ce0)
+S PPU: LLVM: Loaded module v4-kusa-1z3Pyu8YVnnorJiQ2hfu1e-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libsysmodule.sprx” (id=0x23000b00)
+U sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x1, a2=0x1, a3=0xd0010a50)
+E SYS: 'sys_ss_access_control_engine' failed with 0x80010003 : CELL_ENOSYS [1]
+U sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x2, a2=0xd0010a50, a3=0x0)
+S PPU: LLVM: Loaded module v4-kusa-XCgQWMc1s99n1WTwrpWvw4-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libgcm_sys.sprx” (id=0x23000e00)
+S PPU: LLVM: Loaded module v4-kusa-GsbjiwC5Sm3exFcR5udHpE-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-gRWSbPdZHFQq5essKqQVjk-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libsre.sprx” (id=0x23001100)
+S PPU: LLVM: Loaded module v4-kusa-fLV79QqHgPi90UziTsWrHo-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libfs.sprx” (id=0x23001200)
+U sys_prx TODO: _sys_prx_register_module(name=“_sysProcessElf”, opt=*0xd0010df0)
+U sys_prx TODO: _sys_prx_get_module_id_by_name(name=“cellLibprof”, flags=0, pOpt=*0x0)
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [1]
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [2]
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [3]
+E SYS: 'cellAudioPortStart' failed with 0x80310706 : CELL_AUDIO_ERROR_PORT_ALREADY_RUN [1]
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [1]
+S PPU: LLVM: Loaded module v4-kusa-XPMH8ztYKnZCkeMcGCePPX-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libpamf.sprx” (id=0x23008b00)
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [2]
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [3]
+S PPU: LLVM: Loaded module v4-kusa-KFLFGufZHY840VtTx0W1J1-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Pj6r8V9pkxJAE86yrysYUq-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libsail.sprx” (id=0x23008c00)
+U sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x1, a2=0x1, a3=0xd00724f8)
+E SYS: 'sys_ss_access_control_engine' failed with 0x80010003 : CELL_ENOSYS [1]
+S PPU: LLVM: Loaded module v4-kusa-4RvCp1PnzhcZcunZsLjmcG-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libdmux.sprx” (id=0x23009f00)
+S PPU: LLVM: Loaded module v4-kusa-VZcVmykW24Mqf5UJab7kxN-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libdmuxpamf.sprx” (id=0x2300a000)
+S PPU: LLVM: Loaded module v4-kusa-HiPA6t49xGUA4vnZ3HFZ0a-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libavcdec.sprx” (id=0x2300a800)
+E SYS: Stat: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [x31]
+E SYS: 'cellAudioPortStop' failed with 0x80310708 : CELL_AUDIO_ERROR_PORT_NOT_RUN [1]
+E SYS: Stat: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [x9]
+U sys_prx TODO: _sys_prx_unload_module(id=0x2300a800, flags=0x0, pOpt=*0x0)
+U sys_prx TODO: _sys_prx_unload_module(id=0x2300a700, flags=0x0, pOpt=*0x0)
+U sys_prx TODO: _sys_prx_unload_module(id=0x2300a000, flags=0x0, pOpt=*0x0)
+U sys_prx TODO: _sys_prx_unload_module(id=0x23009f00, flags=0x0, pOpt=*0x0)
+U sys_prx TODO: _sys_prx_unload_module(id=0x23008b00, flags=0x0, pOpt=*0x0)
+U sys_prx TODO: _sys_prx_unload_module(id=0x23008c00, flags=0x0, pOpt=*0x0)
+U PPU TODO: Unimplemented syscall syscall_988 -> CELL_OK (r3=0x2, r4=0x0, r5=0x0, r6=0x0, r7=0x0, r8=0x3e9, r9=0x70, r10=0x1000000)
+S sys_process: Process finished -> /dev_bdvd/PS3_GAME/USRDIR/Jak2.self
+E ppu_loader: vm::falloc(vm::main) failed (addr=0x20000000, memsz=0x4000000)
+- RSX: Found vulkan-compatible GPU: 'AMD Radeon RX 5700 XT' running on driver 2.0.179
+S Input: XInput device 0 connected
+S PPU: LLVM: Loaded module v4-kusa-MXoXuSqF2AGTV8Nd9C6A7g-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Uqn8wrwHrLNpnSTEJxJZvJ-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-gf8AoLgdZaK0ArE996m1NM-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-qRWk1xHfeYUcfzLPAAr3F4-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-qtucYapmX4g8Eq8vfp0q4d-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-r8zz9H45zEfhgSkVKnNzf2-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-1mbE0cW3n6A2WUfNjT2bz4-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-6A4hfKRb1xyA13QJxPUrMS-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-XRqUHsS1jU2WiePr8bWH2r-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-iv8j1k8CvnMjaEr8QF9jHM-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-pooZoR9ko2gSfypcw1pxAP-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-X5Jok3ZrWtsRKzxRcnKF0T-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-91nJY2nv9iXnhRNohHWJ88-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-jRYmT94K5FyoGUn0fxjtF6-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-qfVmP3o7uPb7c2gYWtnr4y-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-6Qo50xGuVd1GX3LKJfTL7z-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-M0Tj5QZ249sAzaXT8LK9XZ-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-eVorrbFnZrUjiNqoU65QiN-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-FSt2XQRAftYbsc3g2W4QeV-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-XkuCrfgvA3EM2jRVTHHL3t-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-jzRLfi6P0v6T9Wu8CyGq32-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Ve3Wyob0bJnmJyPHGYHgYo-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-1zNacbHsYHVFAfnVucZfT7-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-04pGZZ585Ja2E8C9eLxC9Y-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-UeQWy4NqL5MJwGHzWGg2Ga-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Kk6EEzQJqECRRNqtEvqn0P-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-TLXKsjAbzHqLbkJ9eHFfXM-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-gkmM29HYTTGfi6axJ2jg2a-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-S85UwQHEKh1dr6oX2Gej4F-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-giJRnZ4rSVjXpY5xFSCPZb-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-JZMh37EHoVyErNjiNtdZU2-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-iuJaFhmuFGup34y5wg0cnU-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-h1GkFntaKH8fSwdtJALj49-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-jJE58NzVJXZZYVbynbUCNL-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-cHLdG2TXWpMkHbYcvfp5to-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-JoouYc9wp183P0Ez360bkp-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-VCY5bXqyGfUPjg0jheihyU-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-pH0tQcPrz6X2XEoXiezdSh-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-9F3JY4sP0wb0hgExKFpGXq-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-0gtaE36JL5K13A2NCX6imK-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-iGLzhrEeVZEibcUsH3UiXs-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-HZFEEkxiH3Cbzos1Avr11m-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-dWbbrZU47AaS0MFoW2FNVS-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-82sgjnm0gQHTYjRLCT8zdt-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-eppijfdqPgyA9SFvjvsod9-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-354oYdeV7Zz9gpm22xgEEA-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-WeM4LeroncbZcUKiKpmhGH-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-FhyEXSJVpTqifUowrYt9JS-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-UJkmTXukYc3XEg5HARE7nw-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Lkd4H8Q1oAHdKaC1bWspWg-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Tp1fCxxapGkozTk35whf6h-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-p8fQoSUcacsjCjRvj7QgQo-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-A8rbY2vgxfEetn55r5AiA5-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Xg9HXnEydZoVTvvnaccN5x-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-hJCZYVkiT46PfFEJLY9n2V-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-MmJxvwzkJs1XKWfpkztbzw-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-H5uZ9At9RJTbJVJqPC9kaq-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-JxrEtfj2iNmRpn84ZE2eku-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-M9Xae67t4v8A3VdZHLtWqm-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-SWtprmUoYQmjo1J3h7CrUw-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-5brJwtZmn00X43n1NG5Kay-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-HKAV74CiRpxSLksbkgJeMT-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-EYhPJbgJu8SQs4R96NZofK-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-epzFg1pkgSX1hc8U99FJHG-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Gbq6QhyKwfHiE66EYuthni-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-mA3HLJiPkdF1oxsQPyiAoU-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-55VkHfEveGrcKvpF59e28J-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-2yS36h8P9gzLgS9p72Jc9J-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-QoaeaRxgaAh85LPbGiUVLU-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-04fhGX3ZNhX2cVHZK1LhuF-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-ZPdQMwoHQZbq7Cif4anyK9-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-167z9p9sjdVf6WiNgHyrwY-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-oT7qXEdT97YHx7CAS3XiE5-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-KVyuJWZnr9RYLLbRZUA2vN-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-CbLbkksdab8GRn3Fh06cQ0-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Yxuji4ttVaM0zHLkMpMUbj-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-86fJCjzrJkLbJyKx5j1FEx-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-kf1u6yArtLxtq6UavYWA5u-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-0bxGwMh1fwy3cohKGsrSEe-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-QPjZaAqMG2FQ7LP8CtZqNX-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-0RuFsCefxR3jCLrgZa3TyU-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-PUhmsQpfXMnAt0RTfHdaEz-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-mba7HQJGdYnjTdN44fqvs2-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-7onURYosci1LNszLeav1Me-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-iwVSnGFxRrPJW4pLeZoG4Q-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-XqqHNiXekSd7S0Ng8HbtiV-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-7drJ0xjUjkhUbyugoKpov0-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-V6cMRsTezAaivF5s8vSTA5-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-FSzqAUh2eQcG28f69Hq1cr-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-GM58yV9VWQC9FX06xx84T1-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-cnqd98NaUpJe182E0iE6L9-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-C5Lw9grVAvhsfSjijF7NVk-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-YUsjTse9G1KbnLPgfEeSN9-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-5UrZrFN0xM8QhPKTXb2YsX-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-gmVPJ83xZm7ffQq0wCzyfv-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-7Svq3MkNUkncwapP6KdSJZ-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-Tfn3YRHVtoiUwuYdvtrriF-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-k2FSKrsET0oLEzgWnzqP0p-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-K32Hp3jRuQKc4cSVe1JvJn-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-CYR0fbPTHQzSuatSqUJkiL-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-ZQwwFCUNk2KA0Qqy1vfJn8-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-o7ji5yof8hrK8FFxt9A13b-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-ZntoUrL2WdgN4zScUVEwcg-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-7iGPcKmLVr5jNqZ0CZCaNx-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-LdxMmzPc80bg9KoE33NVrm-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-MKwqozbaVv02FMGSV0Gdqe-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-XjTHptSkxmS9fSv9CS7YqP-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-eiZkXUJyWni728twwe4tqh-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-T0n02i0KUp09iR64ddoYQf-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-PcUfo0yt3atoi4zPfSMPaf-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-4JH8tQ6a9XeGUeHmL8pZGt-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-t8fkLYtd731EN3wwuY15Uu-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-3hCg1TtpiQhHFsfCmged8W-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-3YNZ3oRXtZVHkC0X7tnJhf-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-ak0VXQkn37u8mMf5FNSgcg-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-ff2R0M0SbWH7C5fSoTvEGS-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-JzeWEng62G75JsXVYp00mG-00000G-skylake.obj
+S SPU: SPU Runtime: Built the interpreter.
+S SPU: SPU Runtime: Built 969 functions.
+U sys_prx TODO: _sys_prx_register_module(name=“cellProcessElf”, opt=*0xd0010ce0)
+S PPU: LLVM: Loaded module v4-kusa-1z3Pyu8YVnnorJiQ2hfu1e-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libsysmodule.sprx” (id=0x23000b00)
+U sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x1, a2=0x1, a3=0xd0010a50)
+E SYS: 'sys_ss_access_control_engine' failed with 0x80010003 : CELL_ENOSYS [1]
+U sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x2, a2=0xd0010a50, a3=0x0)
+S PPU: LLVM: Loaded module v4-kusa-XCgQWMc1s99n1WTwrpWvw4-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libgcm_sys.sprx” (id=0x23000e00)
+S PPU: LLVM: Loaded module v4-kusa-GsbjiwC5Sm3exFcR5udHpE-00000G-skylake.obj
+S PPU: LLVM: Loaded module v4-kusa-gRWSbPdZHFQq5essKqQVjk-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libsre.sprx” (id=0x23001100)
+S PPU: LLVM: Loaded module v4-kusa-fLV79QqHgPi90UziTsWrHo-00000G-skylake.obj
+S sys_prx: Loaded module: “/dev_flash/sys/external/libfs.sprx” (id=0x23001200)
+U sys_prx TODO: _sys_prx_register_module(name=“_sysProcessElf”, opt=*0xd0010df0)
+U sys_prx TODO: _sys_prx_get_module_id_by_name(name=“cellLibprof”, flags=0, pOpt=*0x0)
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [1]
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [2]
+E SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [3]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/iso.txt” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [2]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [3]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/tombd.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/tombd.cgo” [2]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/baron-widow.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/baron-widow.cgo” [2]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/final/dgo1/drillmtn-vis.dgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/forestb.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/forestb.cgo” [2]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lhiphog.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltrntess.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltrnkrkd.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltrnysam.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lysamsam.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lyskdcd.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lhiphog.cgo” [2]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltentout.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lsamergd.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lkeirift.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/garage.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/racerlp.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/racerp.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/final/dgo1/racerp.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/flutlp.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/flutp.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/final/dgo1/flutp.cgo” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/stranim.txt” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/mapanim.txt” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/KERNEL/meshes/KERNEL.JMB” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/meshes/KERNEL.JMB” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/meshes/GAME.JMB” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/COMMON.bnk” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/EMPTY0.bnk” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/EMPTY1.bnk” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/EMPTY2.bnk” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/TITLE/meshes/TITLE.JMB” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/CWI/meshes/CWI.JMB” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/LWIDEA/meshes/LWIDEA.JMB” [1]
+E SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/CTA/meshes/CTA.JMB” [1]
+E RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85) x4
+S RSX: Program compiled successfully x3
+E RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85) x1194

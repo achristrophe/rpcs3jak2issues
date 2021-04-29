@@ -1,0 +1,1082 @@
+RPCS3 v0.0.14-11619-22584fb2 Alpha | HEAD | Firmware version: 4.87
+Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz | 8 Threads | 15.92 GiB RAM | TSC: 3.600GHz | AVX+ | FMA3 | TSX-FA
+Operating system: Windows, Major: 10, Minor: 0, Build: 19042, Service Pack: none, Compatibility mode: 0
+RSX: Found vulkan-compatible GPU: 'AMD Radeon RX 5700 XT' running on driver 2.0.179
+S ppu_loader: PPU executable hash: PPU-7b601e734d3cbe71de1ea1189ad0113e386a8f8b (<- 0)
+S ppu_loader: SPU executable hash: SPU-64ccc283cbba32bc67122a152efea9d757623e1e (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x160c0, p_memsz=0x160c0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x19100, p_filesz=0x30, p_memsz=0x17250, p_offset=0x16200
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x34, p_offset=0x16230
+SPUNAME: 'c:/Projects/Jax/flux/flux3d/spu/'
+S ppu_loader: SPU executable hash: SPU-41c34eb6399f3871a6b043a9c93748219868f914 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x104a0, p_memsz=0x104a0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x13500, p_filesz=0x60, p_memsz=0x2a0a0, p_offset=0x10600
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x10660
+SPUNAME: 'spu/msngSPURS_ATRAC'
+S ppu_loader: SPU executable hash: SPU-efa7da91f1a462a386ce7bba0aa3b671082978e9 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x9350, p_memsz=0x9350, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0xc380, p_filesz=0x20, p_memsz=0x2aa00, p_offset=0x9480
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x34, p_offset=0x94a0
+SPUNAME: 'objs/release/edgezlib_inflate_ta'
+S ppu_loader: SPU executable hash: SPU-2379c584746bcc87e8d87e1fdcd112600d090dc3 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x500, p_memsz=0x500, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x580
+SPUNAME: 'mstream_dsp_filter.pic'
+S ppu_loader: SPU executable hash: SPU-1ec2687cec02f77ebfa8f46afe0402082e9767a9 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x790, p_memsz=0x790, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x880, p_filesz=0x0, p_memsz=0x20, p_offset=0x880
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x890
+SPUNAME: 'mstream_dsp_aux_send.pic'
+S ppu_loader: SPU executable hash: SPU-e294f5af85d437d0a45e2d878622d6bfc7dbcabd (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x530, p_memsz=0x530, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x600, p_filesz=0x0, p_memsz=0x20, p_offset=0x600
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x630
+SPUNAME: 'mstream_dsp_aux_return.pic'
+S ppu_loader: SPU executable hash: SPU-efd978dd855a2559c2f4875db790c2de07221078 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x1f80, p_memsz=0x1f80, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x2000
+SPUNAME: 'mstream_dsp_reverb.pic'
+S ppu_loader: SPU executable hash: SPU-e433af6d732c289fddceca260581a622e2a356d1 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x690, p_memsz=0x690, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x710
+SPUNAME: 'mstream_dsp_para_eq.pic'
+S ppu_loader: SPU executable hash: SPU-9a6994e0b47072d21eb75e316c146eaf81876ec0 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x4a0, p_memsz=0x4a0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x580, p_filesz=0x0, p_memsz=0x20, p_offset=0x580
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x5a0
+SPUNAME: 'mstream_dsp_softclip.pic'
+S ppu_loader: PRX library hash: PRX-aba8af845072f7dc2664b5a958a9a4f2496f59a8 (<- 0)
+RSX: Found vulkan-compatible GPU: 'AMD Radeon RX 5700 XT' running on driver 2.0.179
+E RSX: Your GPU does not support alpha-to-one for multisampling. Graphics may be inaccurate when MSAA is enabled.
+S GUI: Boot successful.
+S Input: XInput device 0 connected
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-pua9eH0TpnCbwpNvwRqqC7-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-TXubik8nEbQKubWztbtg3e-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-ZuUcA5oaoeuRHHHwcSFETG-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-p4fyZSf5cuCkh3jhpVCKaZ-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-dCsk6YQ3wHH5HR5WGG7qvX-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-CzcMcdfR62ptMadUxovXaJ-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-KCXPzQvyKS0TkKaAdvtP8r-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } SPU: SPU Runtime: Built the interpreter.
+E {SPU Worker 5} SPU: [0x06aa0] SPU Analyser failed, 138 vs 276
+S {PPU[0x1000000] main_thread } SPU: SPU Runtime: Built 1006 functions.
+U {PPU[0x1000000] Thread (main_thread) [0x006afe64]} sys_prx TODO: _sys_prx_register_module()
+U {PPU[0x1000000] Thread (main_thread) [0x006b00bc]} sys_prx TODO: _sys_prx_register_library(library=*0x6b26a0)
+S {PPU[0x1000000] Thread (main_thread) [0x006b09ac]} ppu_loader: PRX library hash: PRX-6bf437f05980eee0257bc1d29d8ec0fec0f166f5 (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-1z3Pyu8YVnnorJiQ2hfu1e-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x006b09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libsysmodule.sprx” (id=0x23000b00)
+U {PPU[0x1000000] Thread (main_thread) [0x006f3d8c]} sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x1, a2=0x1, a3=0xd0010a50)
+E {PPU[0x1000000] Thread (main_thread) [0x006f3d8c]} SYS: 'sys_ss_access_control_engine' failed with 0x80010003 : CELL_ENOSYS [1]
+U {PPU[0x1000000] Thread (main_thread) [0x006f3d24]} sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x2, a2=0xd0010a50, a3=0x0)
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} ppu_loader: PRX library hash: PRX-f50c4616d91abb2d4c167950dade5df60ddce6ab (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} PPU: LLVM: Loaded module v3-kusa-XCgQWMc1s99n1WTwrpWvw4-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} sys_prx: Loaded module: “/dev_flash/sys/external/libgcm_sys.sprx” (id=0x23000e00)
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} ppu_loader: SPU executable hash: SPU-dd4f975640172a0c30a4d5bc502094b2eef6f963 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x100, p_filesz=0x780, p_memsz=0x780, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x800
+SPUNAME: 'spurs_kernel_executable.elf'
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} ppu_loader: SPU executable hash: SPU-03e32a2c85646df9cb752d87d7b0a1b1cd420237 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x100, p_filesz=0x790, p_memsz=0x790, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x810
+SPUNAME: 'spurs_kernel2_executable.elf'
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} ppu_loader: PRX library hash: PRX-f41e73be984ac8eaf44260cab38f9693355f1a71 (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} PPU: LLVM: Loaded module v3-kusa-TP3c8YsdNggjaG5WRjcboe-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} PPU: LLVM: Loaded module v3-kusa-LWAKW9c35vXJad6uHkwzhK-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} sys_prx: Loaded module: “/dev_flash/sys/external/libsre.sprx” (id=0x23001100)
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} ppu_loader: PRX library hash: PRX-4b754af5b92c5cc0603a0d11b63aa8dad1f3ca27 (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} PPU: LLVM: Loaded module v3-kusa-fLV79QqHgPi90UziTsWrHo-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x006b14d0]} sys_prx: Loaded module: “/dev_flash/sys/external/libfs.sprx” (id=0x23001200)
+U {PPU[0x1000000] Thread (main_thread) [0x006b061c]} sys_prx TODO: _sys_prx_register_module()
+U {PPU[0x1000000] Thread (main_thread) [0x006aff0c]} sys_prx TODO: _sys_prx_get_module_id_by_name(name=“cellLibprof”, flags=0, pOpt=*0x0)
+E {PPU[0x1000000] Thread (main_thread) [0x006aff0c]} SYS: '_sys_prx_get_module_id_by_name' failed with 0x8001112e : CELL_PRX_ERROR_UNKNOWN_MODULE [1]
+E {PPU[0x1000009] Thread (JCLOAD) [0x006a54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [1]
+E {PPU[0x1000009] Thread (JCLOAD) [0x006a54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [2]
+E {PPU[0x1000009] Thread (JCLOAD) [0x006a54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [3]
+E {PPU[0x100000c] Thread (MultiStream PU Thread) [HLE:0x00480034, LR:0x000303e0]} SYS: 'cellAudioPortStart' failed with 0x80310706 : CELL_AUDIO_ERROR_PORT_ALREADY_RUN [1]
+E {PPU[0x100000b] Thread (audio-dispatch) [0x006a54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [1]
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} ppu_loader: PRX library hash: PRX-ce1292a0c69a33f3073f15e7a86b240baac90136 (<- 0)
+E {PPU[0x100000b] Thread (audio-dispatch) [0x006a54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [2]
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-XPMH8ztYKnZCkeMcGCePPX-00000G-skylake.obj
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libpamf.sprx” (id=0x23008b00)
+E {PPU[0x100000b] Thread (audio-dispatch) [0x006a54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [3]
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} ppu_loader: PRX library hash: PRX-631eaf1054d114d76722b2c2b12a494e79d05fdc (<- 0)
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-Ugpy776JMwx9TjiTsYUVuT-00000G-skylake.obj
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-bfwtN13iYk934dxr4yUoyj-00000G-skylake.obj
+S {PPU[0x1000009] Thread (JCLOAD) [0x006b09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libsail.sprx” (id=0x23008c00)
+U {PPU[0x1000009] Thread (JCLOAD) [0x007d41c4]} sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x1, a2=0x1, a3=0xd00724f8)
+E {PPU[0x1000009] Thread (JCLOAD) [0x007d41c4]} SYS: 'sys_ss_access_control_engine' failed with 0x80010003 : CELL_ENOSYS [1]
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: PRX library hash: PRX-00c566de1c80647e317bf7779d8adbd6496a62d6 (<- 0)
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-4RvCp1PnzhcZcunZsLjmcG-00000G-skylake.obj
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libdmux.sprx” (id=0x23009f00)
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-df25d901030764b2c64af03728b543a44c22c961 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x76c0, p_memsz=0x76c0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0xa700, p_filesz=0x170, p_memsz=0x10a70, p_offset=0x7800
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x7970
+SPUNAME: 'dmux_spu.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: PRX library hash: PRX-e958d31f4082d63bc9a80d6045f44235c18484b1 (<- 0)
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-VZcVmykW24Mqf5UJab7kxN-00000G-skylake.obj
+S {SPUW.1} SPU: New block compiled successfully
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libdmuxpamf.sprx” (id=0x2300a000)
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-65c8480fdb1839715070fa07a683a6e4ab03cf44 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x14f0, p_memsz=0x14f0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x4500, p_filesz=0x560, p_memsz=0xd60, p_offset=0x1600
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x1b60
+SPUNAME: 'init_avc.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-f33f965bd1f7da6b886056e0721a576b7cc41616 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x26e50, p_memsz=0x26e50, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x29e80, p_filesz=0x570, p_memsz=0xcc0, p_offset=0x26f80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x274f0
+SPUNAME: 'thread_a.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-502cd384c3178f9846ac88f9ac03af85ea6e0a72 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x7940, p_memsz=0x7940, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0xa980, p_filesz=0x560, p_memsz=0xa50, p_offset=0x7a80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x7fe0
+SPUNAME: 'thread_a1.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-134d757d7c5aa2f2b75eff2143cae73100e477f1 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x2bd20, p_memsz=0x2bd20, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x2ed80, p_filesz=0x590, p_memsz=0x1d90, p_offset=0x2be80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x2c410
+SPUNAME: 'avcdec_spu.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-020575c220f438cc1aa556ec0649d3ff5aa1f22d (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x283e0, p_memsz=0x283e0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x2b400, p_filesz=0x850, p_memsz=0x9e0, p_offset=0x28500
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x28d50
+SPUNAME: 'thread_b1.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-fbba72e491ce97c82541fc506ee36fe17ac16754 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x26430, p_memsz=0x26430, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x29480, p_filesz=0x560, p_memsz=0x6f0, p_offset=0x26580
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x26ae0
+SPUNAME: 'thread_b2.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-9b422aeb2c100033aec9aecffba6e567f546be72 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x27340, p_memsz=0x27340, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x2a380, p_filesz=0x850, p_memsz=0x9e0, p_offset=0x27480
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x27cd0
+SPUNAME: 'thread_b3.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-7d6f0d643b56c9e916ef08be19dd991589ee0234 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x25d30, p_memsz=0x25d30, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x28d80, p_filesz=0x560, p_memsz=0x6f0, p_offset=0x25e80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x263e0
+SPUNAME: 'thread_b4.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-b0e8b0af1599e16d43dfa601d879db5a6447b7bc (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x1d890, p_memsz=0x1d890, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x20900, p_filesz=0x560, p_memsz=0x6f0, p_offset=0x1da00
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x1df60
+SPUNAME: 'thread_c1.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-eb1552a1ac6eaddbb46b04c6adb35e2fd1365c83 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x1e530, p_memsz=0x1e530, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x21580, p_filesz=0x560, p_memsz=0x6f0, p_offset=0x1e680
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x1ebe0
+SPUNAME: 'thread_c2.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-0a658a31cb749e57605963738bdf24b9ab20eb18 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x1d530, p_memsz=0x1d530, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x20580, p_filesz=0x560, p_memsz=0x980, p_offset=0x1d680
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x1dbe0
+SPUNAME: 'thread_c3.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-511fabeb1919d5a21f5c1ca313cf2c9b8bc293e0 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x10f90, p_memsz=0x10f90, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x14000, p_filesz=0x560, p_memsz=0x6f0, p_offset=0x11100
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x11660
+SPUNAME: 'thread_d1.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: SPU executable hash: SPU-fe7b48196b071aa88bf051c0a4400c2968ec28bf (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x14620, p_memsz=0x14620, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x17680, p_filesz=0x560, p_memsz=0x6f0, p_offset=0x14780
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x14ce0
+SPUNAME: 'thread_d2.elf'
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} ppu_loader: PRX library hash: PRX-b2bb069e90d12fb17c844388b5badd96203510d5 (<- 0)
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} PPU: LLVM: Loaded module v3-kusa-HiPA6t49xGUA4vnZ3HFZ0a-00000G-skylake.obj
+S {PPU[0x100000d] Thread (_libsail-control) [0x006b09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libavcdec.sprx” (id=0x2300a800)
+E {PPU[0x1000009] JCLOAD } SYS: Stat: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [x31]
+E {PPU[0x100000b] Thread (audio-dispatch) [HLE:0x00480024, LR:0x000301ac]} SYS: 'cellAudioPortStop' failed with 0x80310708 : CELL_AUDIO_ERROR_PORT_NOT_RUN [1]
+E {PPU[0x100000b] audio-dispatch } SYS: Stat: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [x9]
+U {PPU[0x100000d] Thread (_libsail-control) [0x006b1038]} sys_prx TODO: _sys_prx_unload_module(id=0x2300a800, flags=0x0, pOpt=*0x0)
+U {PPU[0x100000d] Thread (_libsail-control) [0x006b1038]} sys_prx TODO: _sys_prx_unload_module(id=0x2300a700, flags=0x0, pOpt=*0x0)
+U {PPU[0x100000d] Thread (_libsail-control) [0x006b1038]} sys_prx TODO: _sys_prx_unload_module(id=0x2300a000, flags=0x0, pOpt=*0x0)
+U {PPU[0x100000d] Thread (_libsail-control) [0x006b1038]} sys_prx TODO: _sys_prx_unload_module(id=0x23009f00, flags=0x0, pOpt=*0x0)
+U {PPU[0x1000000] Thread (main_thread) [0x006b1038]} sys_prx TODO: _sys_prx_unload_module(id=0x23008b00, flags=0x0, pOpt=*0x0)
+U {PPU[0x1000000] Thread (main_thread) [0x006b1038]} sys_prx TODO: _sys_prx_unload_module(id=0x23008c00, flags=0x0, pOpt=*0x0)
+U {PPU[0x1000000] Thread (main_thread) [0x00081594]} PPU TODO: Unimplemented syscall syscall_988 -> CELL_OK (r3=0x2, r4=0x0, r5=0x0, r6=0x0, r7=0x0, r8=0x3e9, r9=0x70, r10=0x1000000)
+S sys_process: Process finished -> /dev_bdvd/PS3_GAME/USRDIR/Jak2.self
+E {PPU[0x1000002] Thread (fluxSpursHdlr1) [0x0073b604]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000007] Thread (fios mediathread 4) [0x006a5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000006] Thread (fios mediathread 3) [0x006a5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000001] Thread (_gcm_intr_thread) [0x0071833c]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000004] Thread (spu_printf_handler) [0x0002df6c]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000005] Thread (fios mediathread 2) [0x006a5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000008] Thread (fios scheduler 1) [0x006a5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000003] Thread (fluxSpursHdlr0) [0x0073948c]} SYS: 'sys_spu_thread_group_join' failed with 0x00000000 : 0 [1]
+E SIG: Thread [RSX.W1] is too sleepy. Took 4.289µs to wake it up!
+E SIG: Thread [RSX.W2] is too sleepy. Took 4.916µs to wake it up!
+E SIG: Thread [Usb Manager Thread] is too sleepy. Took 4.718µs to wake it up!
+E {SPU LLVM} SIG: Thread [SPU LLVM Profiler] is too sleepy. Took 2.906µs to wake it up!
+E SIG: Thread [SPU LLVM] is too sleepy. Took 2.689µs to wake it up!
+E SIG: Thread [MsgDialog Close Thread] is too sleepy. Took 3.622µs to wake it up!
+E SIG: Thread [CPU Profiler] is too sleepy. Took 3.539µs to wake it up!
+E ppu_loader: vm::falloc(vm::main) failed (addr=0x20000000, memsz=0x4000000)
+S ppu_loader: PPU executable hash: PPU-8e1c4ebd491b282343cf29003e102f59fe86e21f (<- 0)
+S ppu_loader: SPU executable hash: SPU-64ccc283cbba32bc67122a152efea9d757623e1e (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x160c0, p_memsz=0x160c0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x19100, p_filesz=0x30, p_memsz=0x17250, p_offset=0x16200
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x34, p_offset=0x16230
+SPUNAME: 'c:/Projects/Jax/flux/flux3d/spu/'
+S ppu_loader: SPU executable hash: SPU-41c34eb6399f3871a6b043a9c93748219868f914 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x104a0, p_memsz=0x104a0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x13500, p_filesz=0x60, p_memsz=0x2a0a0, p_offset=0x10600
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x10660
+SPUNAME: 'spu/msngSPURS_ATRAC'
+S ppu_loader: SPU executable hash: SPU-efa7da91f1a462a386ce7bba0aa3b671082978e9 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x3000, p_filesz=0x9350, p_memsz=0x9350, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0xc380, p_filesz=0x20, p_memsz=0x2aa00, p_offset=0x9480
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x34, p_offset=0x94a0
+SPUNAME: 'objs/release/edgezlib_inflate_ta'
+S ppu_loader: SPU executable hash: SPU-2379c584746bcc87e8d87e1fdcd112600d090dc3 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x500, p_memsz=0x500, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x580
+SPUNAME: 'mstream_dsp_filter.pic'
+S ppu_loader: SPU executable hash: SPU-1ec2687cec02f77ebfa8f46afe0402082e9767a9 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x790, p_memsz=0x790, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x880, p_filesz=0x0, p_memsz=0x20, p_offset=0x880
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x890
+SPUNAME: 'mstream_dsp_aux_send.pic'
+S ppu_loader: SPU executable hash: SPU-e294f5af85d437d0a45e2d878622d6bfc7dbcabd (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x530, p_memsz=0x530, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x600, p_filesz=0x0, p_memsz=0x20, p_offset=0x600
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x630
+SPUNAME: 'mstream_dsp_aux_return.pic'
+S ppu_loader: SPU executable hash: SPU-efd978dd855a2559c2f4875db790c2de07221078 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x1f80, p_memsz=0x1f80, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x2000
+SPUNAME: 'mstream_dsp_reverb.pic'
+S ppu_loader: SPU executable hash: SPU-e433af6d732c289fddceca260581a622e2a356d1 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x690, p_memsz=0x690, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x710
+SPUNAME: 'mstream_dsp_para_eq.pic'
+S ppu_loader: SPU executable hash: SPU-9a6994e0b47072d21eb75e316c146eaf81876ec0 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x80, p_filesz=0x4a0, p_memsz=0x4a0, p_offset=0x100
+Segment: p_type=0x1, p_vaddr=0x580, p_filesz=0x0, p_memsz=0x20, p_offset=0x580
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x5a0
+SPUNAME: 'mstream_dsp_softclip.pic'
+S ppu_loader: PRX library hash: PRX-aba8af845072f7dc2664b5a958a9a4f2496f59a8 (<- 0)
+RSX: Found vulkan-compatible GPU: 'AMD Radeon RX 5700 XT' running on driver 2.0.179
+E RSX: Your GPU does not support alpha-to-one for multisampling. Graphics may be inaccurate when MSAA is enabled.
+S Input: XInput device 0 connected
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-AoVcqK5tTkqSCUSoqRuAKs-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-WRbUs0ki3GvUS7mwcyEs11-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-8v7RzpMz1pqi0RhujzFNXx-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-YfR0XjCmRSJWMawunRPwG9-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-Ax0ta8iRvA6pox1AumFznu-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-PYpz2TvN4ysbupHhQfZ28Y-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-KG2febAV2QgbuheFeLVVXb-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-oPfZiAfzxooh7fvmYjeJdY-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-TGmiYg17esSP213MksAFoE-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-63djRF5ZjfxWmdATo4RMkq-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } PPU: LLVM: Loaded module v3-kusa-KCXPzQvyKS0TkKaAdvtP8r-00000G-skylake.obj
+S {PPU[0x1000000] main_thread } SPU: SPU Runtime: Built the interpreter.
+S {PPU[0x1000000] main_thread } SPU: SPU Runtime: Built 893 functions.
+U {PPU[0x1000000] Thread (main_thread) [0x018efe64]} sys_prx TODO: _sys_prx_register_module()
+U {PPU[0x1000000] Thread (main_thread) [0x018f00bc]} sys_prx TODO: _sys_prx_register_library(library=*0x18f26a0)
+S {PPU[0x1000000] Thread (main_thread) [0x018f09ac]} ppu_loader: PRX library hash: PRX-6bf437f05980eee0257bc1d29d8ec0fec0f166f5 (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x018f09ac]} PPU: LLVM: Loaded module v3-kusa-1z3Pyu8YVnnorJiQ2hfu1e-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x018f09ac]} sys_prx: Loaded module: “/dev_flash/sys/external/libsysmodule.sprx” (id=0x23000b00)
+U {PPU[0x1000000] Thread (main_thread) [0x01943d8c]} sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x1, a2=0x1, a3=0xd0010a50)
+E {PPU[0x1000000] Thread (main_thread) [0x01943d8c]} SYS: 'sys_ss_access_control_engine' failed with 0x80010003 : CELL_ENOSYS [1]
+U {PPU[0x1000000] Thread (main_thread) [0x01943d24]} sys_ss TODO: sys_ss_access_control_engine(pkg_id=0x2, a2=0xd0010a50, a3=0x0)
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} ppu_loader: PRX library hash: PRX-f50c4616d91abb2d4c167950dade5df60ddce6ab (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} PPU: LLVM: Loaded module v3-kusa-XCgQWMc1s99n1WTwrpWvw4-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} sys_prx: Loaded module: “/dev_flash/sys/external/libgcm_sys.sprx” (id=0x23000e00)
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} ppu_loader: SPU executable hash: SPU-dd4f975640172a0c30a4d5bc502094b2eef6f963 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x100, p_filesz=0x780, p_memsz=0x780, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x800
+SPUNAME: 'spurs_kernel_executable.elf'
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} ppu_loader: SPU executable hash: SPU-03e32a2c85646df9cb752d87d7b0a1b1cd420237 (<- 0)
+Segment: p_type=0x1, p_vaddr=0x100, p_filesz=0x790, p_memsz=0x790, p_offset=0x80
+Segment: p_type=0x4, p_vaddr=0x0, p_filesz=0x34, p_memsz=0x0, p_offset=0x810
+SPUNAME: 'spurs_kernel2_executable.elf'
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} ppu_loader: PRX library hash: PRX-f41e73be984ac8eaf44260cab38f9693355f1a71 (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} PPU: LLVM: Loaded module v3-kusa-TP3c8YsdNggjaG5WRjcboe-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} PPU: LLVM: Loaded module v3-kusa-LWAKW9c35vXJad6uHkwzhK-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} sys_prx: Loaded module: “/dev_flash/sys/external/libsre.sprx” (id=0x23001100)
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} ppu_loader: PRX library hash: PRX-4b754af5b92c5cc0603a0d11b63aa8dad1f3ca27 (<- 0)
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} PPU: LLVM: Loaded module v3-kusa-fLV79QqHgPi90UziTsWrHo-00000G-skylake.obj
+S {PPU[0x1000000] Thread (main_thread) [0x018f14d0]} sys_prx: Loaded module: “/dev_flash/sys/external/libfs.sprx” (id=0x23001200)
+U {PPU[0x1000000] Thread (main_thread) [0x018f061c]} sys_prx TODO: _sys_prx_register_module()
+U {PPU[0x1000000] Thread (main_thread) [0x018eff0c]} sys_prx TODO: _sys_prx_get_module_id_by_name(name=“cellLibprof”, flags=0, pOpt=*0x0)
+E {PPU[0x1000000] Thread (main_thread) [0x018eff0c]} SYS: '_sys_prx_get_module_id_by_name' failed with 0x8001112e : CELL_PRX_ERROR_UNKNOWN_MODULE [1]
+E {PPU[0x1000000] Thread (main_thread) [0x018e54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [1]
+E {PPU[0x1000000] Thread (main_thread) [0x018e54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [2]
+E {PPU[0x1000000] Thread (main_thread) [0x018e54ec]} SYS: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [3]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/iso.txt” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [2]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [3]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/tombd.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/tombd.cgo” [2]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/baron-widow.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/baron-widow.cgo” [2]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/final/dgo1/drillmtn-vis.dgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/forestb.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/forestb.cgo” [2]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lhiphog.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltrntess.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltrnkrkd.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltrnysam.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lysamsam.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lyskdcd.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lhiphog.cgo” [2]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/ltentout.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lsamergd.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/lkeirift.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/garage.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/racerlp.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/racerp.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/final/dgo1/racerp.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/flutlp.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/flutp.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/final/dgo1/flutp.cgo” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/stranim.txt” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/mapanim.txt” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/KERNEL/meshes/KERNEL.JMB” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/meshes/KERNEL.JMB” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/meshes/GAME.JMB” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/COMMON.bnk” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/EMPTY0.bnk” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/EMPTY1.bnk” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/GAME/Audio/SBK/EMPTY2.bnk” [1]
+E {PPU[0x100000c] Thread (Trophies) [HLE:0x016c00d4, LR:0x000606d8]} sceNpTrophy: sceNpTrophyRegisterContext(context=0x1, handle=0x1, statusCb=*0xc51330, arg=*0x0, options=0x1)
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/TITLE/meshes/TITLE.JMB” [1]
+S {RSX.W2} RSX: Program compiled successfully
+S {RSX.W1} RSX: Program compiled successfully
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/CWI/meshes/CWI.JMB” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/LWIDEA/meshes/LWIDEA.JMB” [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x019c2090]} SYS: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/CTA/meshes/CTA.JMB” [1]
+E {RSX [0x01995a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b1510]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c9a68]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01dad40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f5140]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0021a68]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {RSX.W2} RSX: Program compiled successfully
+E {RSX [0x00e7fc4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b0538]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0046690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f9618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b4730]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006f940]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0106918]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01acb00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006a690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0128518]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01de600]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ac3dc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0149718]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f3598]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c5ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0166f48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0039618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00dc0a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b816c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0075150]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e0f38]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b4658]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x015d718]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x001f398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f9dd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b8518]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00731f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011fe54]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e3670]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a5ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016c2f4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x002ce60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f4a70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b816c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0081448]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01509b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000dd90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f2b30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c75c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ad198]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006b550]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0139300]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ff398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00da5d8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c9618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x009f0d0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01692b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0048d40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0124680]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0006258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d36e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b7920]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0086eb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0161c70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0042590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013c1ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000eeb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e9a78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bf068]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0097020]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017b770]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0061198]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0132590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0005ed0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e44f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e1058]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b6d98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019b670]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008df18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0163628]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004ffec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011f670]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000c2cc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00fd8e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01dd208]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c5a78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0198a28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00898e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0177398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0063e54]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0141dd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00218e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010b9f8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e21a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cb988]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019a5b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0083020]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0171ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0050cf8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0123f7c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0012590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00de5b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x3
+E {RSX [0x01a9618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0087398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x015b020]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0039a98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010e500]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cf8f8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a29a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0167a60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0042258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f9420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c5618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0083a60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0139420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0006c08]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c36b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019f3e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006a888]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0147748]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0203398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e7bf0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019eaa0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006c4a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012cd40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e038c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008b868]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014db50]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01fef48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00afdc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0155390]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00078d8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c1dd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019bfec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00406e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01122a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b2be8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00611e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0126e28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d4710]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008b398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0158710]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000af48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00afb18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017c1ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004e258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0105a78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01adae0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004db50]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011ca90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01eb398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b9718]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0177988]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0024e60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d9dd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0187770]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005b988]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0115cb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c1228]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0075e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014db28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0009ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b2bc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0163f5c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0039e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01171f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cd078]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ae180]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0165e88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00338d8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e6350]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bee90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00778d8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000a690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ec108]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bfc10]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0091078]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0169c00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0052398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010f6e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cbdc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008bc10]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0166548]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00417a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010a498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f3c58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00dff7c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ca9c8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0091ac0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016c710]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x002fd30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0116de0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e0d60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a3f7c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0182f48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0050070]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x2
+E {RSX [0x01210c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ff3e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cae90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a7e54]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0079f88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012ca90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01dbc10]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0098ad8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0137398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01dff5c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0084560]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0122590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bd618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0063550]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0106018]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a1d00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x003c5c8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d6498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016d0c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0016840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c9688]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0166d28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0018a28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c01ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016fda0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00090c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00abaf0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014ac08]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f0354]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008ffa4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012bb60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cfa40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006a690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0106590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01becc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0062500]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011b748]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bf670]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006fc38]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0120908]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d33e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0079a50]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x3
+E {RSX [0x0121448]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ca840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00747e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0122258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01da590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0092590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013fa18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01edac0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00aba18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0169228]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0027238]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f1e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b2408]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00703dc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0137598]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0200354]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cdf40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0195208]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0052840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e0d88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b9448]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0193478]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {RSX.W1} RSX: Program compiled successfully
+E {RSX [0x007af48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01639b0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0043c58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012cb00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x001e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00fddd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e03dc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d4538]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b06e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008fc58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0176d28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0160fc8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x003a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0113b38]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01eb598]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c9618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019dbe0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0067c58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0132c30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0007a40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00dde40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b4a00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0088d88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a2590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b5760]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c08e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cad08]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01dc518]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e84b0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ee9a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ef650]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0004d40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01217f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00318e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013c778]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00410c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0149cb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0048d60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014ffe4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006c088]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01788c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0088d60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a1250]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a5e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ab598]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00afad0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b7d78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00bc5a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c2d98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cfad0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c50a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c7c80]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c18e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b6308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a6308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x009a860]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x018f968]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008f940]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0170878]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0062eb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0146840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0021ac0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01071f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e6f90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cb0d0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01abfa4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00465b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0129ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000a158]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0101c70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e5420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00dc1ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b5f88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x009423c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016dff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0064314]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0161e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004eeb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0148ad8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x002d0a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x3
+E {RSX [0x012d858]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0025c70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0121c90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0007140]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01070d0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ee1c8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ebe0c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e9738]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e3920]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01da9c8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00daf48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cb3e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b7ce8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019e860]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0098830]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x018dcb8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007a888]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0185b08]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007c538]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019a470]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a03b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b75e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c4c68]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d0830]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {RSX.W2} RSX: Program compiled successfully
+E {RSX [0x00f5ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0200a28]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011e6b0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0033fa4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x015b8f8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0080354]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a2be8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d2158]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {RSX.W1} RSX: Program compiled successfully
+E {RSX [0x0006d98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012a9a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0055958]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01842ac]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b0fc8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01fcf10]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0135718]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00519c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0194d88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d7140]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ffaa8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0147fc4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00937b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01de590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01403dc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0087728]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e1618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0134b90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0091db0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cdac0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011a500]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005a158]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a6888]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ff398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0025738]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014b550]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008e308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c2450]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e4638]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0006308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0137770]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005d838]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x018ac30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ab398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e1dd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f9298]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00130d0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0135ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005a450]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016b020]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00911c0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ae158]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e2450]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0009c00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011dc70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00275e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014ad08]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005d7f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016fe0c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008c088]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0192cc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00aa258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bda50]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ca258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e9468]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f71f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0014898]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0129e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0052860]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0169780]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008e9a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bae48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e6e48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01fabc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010fd30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0027a60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01503b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005d760]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016f398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007fecc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ab6e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d1058]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ea690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f1420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0009c90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0115780]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x001f628]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013bd30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0048088]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x015d420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00683dc]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0182e48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x008d178]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0191db0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b5e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cff14]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00df868]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e5420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e6d98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ffd78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010c0e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0012f48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0136590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x003ecc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0169618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007ee70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0177bf0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007b1d0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x018416c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a6b30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b17f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ce498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d6590]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f6ae8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0009390]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013fca0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004e5b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0160830]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0084b48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019f550]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cf398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0202888]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0147598]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0066c30]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017e2a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0092918]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a9718]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e0bd8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e3e0c]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011a158]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004e308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014ded0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00787a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0173ce8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0078830]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0174b00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006f3e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016d2b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0154e18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007e500]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016a308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0057af0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00165d8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0100f38]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e7140]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cfe54]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d4cb0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0098dd0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x019c204]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006f6e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0156690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004fca0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0111a98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e2498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c1390]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01df6e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00bfa18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cd150]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ab260]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a4f58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00838f8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017b820]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005b140]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012baf0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0022cc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011c1ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0015618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ebfec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e3ca0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00ea840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01fda78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0106500]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e7b80]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f6b78]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d1420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a3398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0185618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006ace0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0149348]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0051b98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012fea4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0011078]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011f5e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01fb398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00df0d0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ff398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00e0e18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ff5e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f7398]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0019420]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011dff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0034518]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011a308]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0033a18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0127940]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0009c70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f4fe8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000fe84]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012f020]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0020b48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0103a18]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00178f8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0128070]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x001a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011f238]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00097f0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x010fe54]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0019688]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011d150]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x2
+E {RSX [0x0016690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x011fd10]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0039e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013e918]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x003a840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x012d858]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0039618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0138108]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0056788]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01641ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00869a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a8998]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d0950]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f46c8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0100d60]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0008bb0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013ef48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0047ea4]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x015ecc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x006a258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017b188]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007c4b0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0189e88]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a71a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c6ac8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f14d8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01fc4a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x013b628]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0064b00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0180928]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cd618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x3
+E {RSX [0x0005858]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0151c90]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x009d810]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bff14]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00dacc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00082ac]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0133da0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0072498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01ae258]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00fb628]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0019838]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0156840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0062350]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017c730]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00aab58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d8b68]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0101718]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x002b3e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0136d98]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0055be0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01958e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b2498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cdff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00fb5e0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0029298]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0156f48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0085078]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01b3508]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {SPUW.1} SPU: New block compiled successfully x3
+E {RSX [0x00e1618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x000e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+S {RSX.W2} RSX: Program compiled successfully
+S {RSX.W1} RSX: Program compiled successfully
+E {RSX [0x013b940]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0069c00]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0197dc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00c5300]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f2f48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0120ef0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004e840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x017c4a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a9e40]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01d84a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0106840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00350a0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0163478]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0091618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01bfca0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00edc70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x001bba8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014a158]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00783b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a6690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d4928]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0202690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0130284]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x005dc70]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x018bca0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00b9618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01e6498]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0112cc0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x003eb58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x016ab58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0096690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01c2840]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00eeb58]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x001af48]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0147700]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0073e54]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01a03b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00cc1ec]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01f7608]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0121618]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x004b820]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0176600]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00a09b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01cb3e8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00f6ce0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0021ff0]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x014f020]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x007c878]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01aa690]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00d8518]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x00069a8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x01343b8]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {RSX [0x0062038]} RSX: Invalid texture pitch setup, width=256, height=1, format=0xa5(0x85)
+E {PPU[0x1000003] Thread (fluxSpursHdlr0) [0x0198948c]} SYS: 'sys_spu_thread_group_join' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000010] Thread (DGO_RPC) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000014] Thread (SoundLoader_RPC) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000013] Thread (SoundPlayer_RPC) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x100000a] Thread (fios scheduler 1) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000009] Thread (fios mediathread 4) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000012] Thread (Play_RPC) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000008] Thread (fios mediathread 3) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000004] Thread (spu_printf_handler) [0x0008a6a4]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000011] Thread (STR_RPC) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x100000c] Thread (Trophies) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000007] Thread (fios mediathread 2) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x100000b] Thread (Save) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x100000f] Thread (ISO) [0x00024a04]} SYS: 'sys_timer_usleep' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000006] Thread (Main Audio i/o) [0x00088c84]} SYS: 'sys_timer_usleep' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000005] Thread (MultiStream PU Thread) [0x01995e5c]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000001] Thread (_gcm_intr_thread) [0x0196833c]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x100000d] Thread (MMI MIDI Handler) [0x00064798]} SYS: 'sys_timer_usleep' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000002] Thread (fluxSpursHdlr1) [0x0198b604]} SYS: 'sys_event_queue_receive' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000000] Thread (main_thread) [0x018e5ae0]} SYS: '_sys_lwcond_queue_wait' failed with 0x00000000 : 0 [1]
+E {PPU[0x1000000] main_thread } SYS: Stat: '_sys_lwmutex_lock' failed with 0x80010005 : CELL_ESRCH [x31]
+E {PPU[0x1000007] fios mediathread 2 } SYS: Stat: 'sys_fs_open' failed with 0x80010006 : CELL_ENOENT, “/dev_bdvd/PS3_GAME/USRDIR/data/Jak2/jak2/game/dgo1/pole.cgo” [x21]
+E SIG: Thread [RSX.W1] is too sleepy. Took 5.578µs to wake it up!
+E SIG: Thread [RSX.W2] is too sleepy. Took 5.436µs to wake it up!
+E SIG: Thread [Usb Manager Thread] is too sleepy. Took 2.169µs to wake it up!
+E {SPU LLVM} SIG: Thread [SPU LLVM Profiler] is too sleepy. Took 3.642µs to wake it up!
+E SIG: Thread [SPU LLVM] is too sleepy. Took 2.073µs to wake it up!
+E SIG: Thread [MsgDialog Close Thread] is too sleepy. Took 6.878µs to wake it up!
+E SIG: Thread [CPU Profiler] is too sleepy. Took 6.172µs to wake it up!
